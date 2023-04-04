@@ -45,7 +45,7 @@ if(isset($_POST['signup'])){
 <body>
     <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-      <a href="#"><img src="scool.jpg" width="120" height="100"></a>
+      <a href="#"><img src="scool.png" width="120" height="100"></a>
 
     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
       <span aria-hidden="true"></span>
@@ -102,7 +102,7 @@ if(isset($_POST['signup'])){
   </div>
 </nav>
     <section class="hero is-primary is-fullheight">
-      <div class="hero-body"
+      <div class="hero-body">
     <div class="columns">
           <div class="column is-half is-offset-one-quarter">
             <form action="php.php" method="post">
